@@ -1,0 +1,6 @@
+// Game States
+
+0 - Main Menu
+1 - Exit screen
+2 - Character name
+3 - Character confirmation

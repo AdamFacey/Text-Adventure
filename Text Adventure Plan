@@ -1,0 +1,47 @@
+// TEXT ADVENTURE //
+
+BY ADAM FACEY
+
+** RPG STYLR GAME - GOLD, HEALTH, COMBAT, LEVELING SYSTEM, STATS, INVENTORY, MARKETS
+
+MAIN MENU
+
+// STORY //
+
+You walk into the town and suddeenly you hear shouting. A big shadow appears over you.
+Everything goes dark. You open your eyes to see metal bars.
+
+
+
+CHOICE 1
+
+1. move around the room
+2. look around the room
+
+MOVE AROUND THE ROOM - you can't move something is stopping you.
+LOOK AROUND THE ROOM - Leads to choice 2
+
+CHOICE 2
+
+1. Look left
+2. Look right
+3. Look down
+4. Look up
+
+LOOK LEFT - A wall 
+    EXAMINE - The wall is stained with what looks like blood
+LOOK RIGHT - A wooden chair
+    EXAMINE - It looks old and a little broken
+LOOK DOWN - Your feet aren't chained
+LOOK UP - Your hands are chained to a pipe on the ceiling. 
+    EXAMINE - The pipe is rusty and might break easy. Leads to choice 3
+
+CHOICE 3
+
+A man walks up to your cell, you acn't see him well through your hazt vision.
+" Your kind is not welcome here, half breed". 
+He opens the cell and walks right up to you. There's an angry look in his eyes.
+" You should have stayed where you come from and never come to this town"
+*Thud* His fist planted firmly in your ribs.
+" I'm going to teach you a lesson for coming into this town"
+
